@@ -1,0 +1,13 @@
+.img_captche {
+  height: 50px;
+  width: 50px;
+  cursor: pointer;
+  vertical-align:bottom;
+}
+
+.randomNumber {
+    background-color: green;
+    color: white;
+    padding: 5px;
+    width: 50px;
+}
